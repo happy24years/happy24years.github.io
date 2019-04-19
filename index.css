@@ -8,7 +8,7 @@ body {
 @media screen and (max-width: 800px) {
 	body {
 		padding: 1em;
-		font: 35px "Monaco", Inconsolata, monospace;
+		font: 20px "Monaco", Inconsolata, monospace;
 	}
 }
 
