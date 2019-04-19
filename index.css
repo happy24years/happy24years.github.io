@@ -1,0 +1,11 @@
+body {
+  padding: 4em;
+  font: 13px "Monaco", Inconsolata, monospace;
+  background: rgb(25,25,25);
+  color: #f8f8f8;
+}
+
+.dollar:before {
+  content: '$';
+  color: #52a563;
+}
